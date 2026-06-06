@@ -1,0 +1,28 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background: #f7f9fc;
+    color: #333;
+}
+
+header {
+    background: linear-gradient(45deg, #0066cc, #00aaff);
+    color: white;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+footer {
+    background: #333;
+    color: white;
+}
+
+.btn-primary:hover, .btn-success:hover {
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.alert-success {
+    font-size: 1.5rem;
+}
